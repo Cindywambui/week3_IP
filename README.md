@@ -7,7 +7,7 @@ The telecomunication company wanted to upgrade its infrastructure strategy withi
 * To see the analysis click on the following links.
 
 * Google drive on :https://drive.google.com/open?id=1m8e2WLbHE8n7_IEYUQc0BZmAzIW1B6sY
-* On github: https://github.com/Cindywambui/week3_IP
+* On github:
  
 ## Known Bugs
 Separating the date_time column to calculate the business and home hours.
